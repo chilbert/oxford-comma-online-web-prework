@@ -10,4 +10,3 @@ else size == 3
    new_array << ", and #{array_last}"
  end
  end
-end
